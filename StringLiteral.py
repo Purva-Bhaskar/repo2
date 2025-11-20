@@ -7,8 +7,8 @@ print(str1)
 print(str2)
 print(str3)
 
-concatenation=str1+str2
-repeated= str1*3
+concatenation=str1+str2+str3
+repeated= str1*4
 print(concatenation)
 print(repeated)
 
